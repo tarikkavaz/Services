@@ -8,11 +8,11 @@
 			<key>NSBackgroundColorName</key>
 			<string>background</string>
 			<key>NSIconName</key>
-			<string>NSActionTemplate</string>
+			<string>NSTouchBarGlobe</string>
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Open in Visual Studio Code</string>
+				<string>Tr Char Change</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
