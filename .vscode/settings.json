@@ -1,0 +1,13 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBarItem.warningBackground": "#681DD7",
+    "statusBarItem.warningForeground": "#ffffff",
+    "statusBarItem.warningHoverBackground": "#681DD7",
+    "statusBarItem.warningHoverForeground": "#ffffff90",
+    "statusBarItem.remoteBackground": "#681DD7",
+    "statusBarItem.remoteForeground": "#ffffff",
+    "statusBarItem.remoteHoverBackground": "#681DD7",
+    "statusBarItem.remoteHoverForeground": "#ffffff90"
+  },
+  "window.title": "Services"
+}
